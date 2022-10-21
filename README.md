@@ -1,2 +1,2 @@
 # CoockieClicker
-Bienvenue sur la page de Coockie Clicker dans Scratch !
+Bienvenue sur la page du projet de Coockie Clicker dans Scratch !
